@@ -1,0 +1,3 @@
+,Row_Count,Total_Null_Cells,Duplicate_Rows,Dtypes_Correct,Dtype_Accuracy_Percent
+Before Cleaning,893,869,2,4/8,50.0
+After Cleaning,891,0,0,8/8,100.0
